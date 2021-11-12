@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com desenvolvimento de chatbot
 - 🌱 Sou estudande de Sistemas de Informação pelo IFBA - Campus Vitória da Conquista - BA
+- 👩🏻‍🎓 Técnica em informática, com foco em desenvolvimento web
 - 📫 Contate-me pelo e-mail: liviaribeiroinfo@gmail.com 
 - 😄 Pronouns: ela/dela
 
