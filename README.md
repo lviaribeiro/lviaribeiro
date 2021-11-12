@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Lívia Ribeiro!  😀
 
 - 🔭 Atualmente trabalho com desenvolvimento de chatbot
-- 🌱 Sou estudande de Sistemas de Informação pelo IFBA - Campus Vitória da Conquista 
+- 🌱 Sou estudande de Sistemas de Informação pelo IFBA - Campus Vitória da Conquista - BA
 - 📫 Contate-me pelo e-mail: liviaribeiroinfo@gmail.com 
 - 😄 Pronouns: ela/dela
 
