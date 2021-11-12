@@ -4,7 +4,6 @@
 - 🌱 Sou estudande de Sistemas de Informação pelo IFBA - Campus Vitória da Conquista 
 - 📫 Contate-me pelo e-mail: liviaribeiroinfo@gmail.com 
 - 😄 Pronouns: ela/dela
--->
 
 <div align = "center">
 <div>
@@ -19,7 +18,7 @@
   <a href = "mailto:liviaribeiroinfo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/livia-ribeiro-in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/lviaribeiro/lviaribeiro/blob/output/github-contribution-grid-snake.svg)
+
     
   </div>
 
