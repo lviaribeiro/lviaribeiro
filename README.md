@@ -7,11 +7,14 @@
 - 😄 Pronouns: ela/dela
 
 <div align = "center">
-<div>
+
+
   <a href="https://github.com/lviaribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lviaribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lviaribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lviaribeiro&layout=compact&langs_count=7&theme=dracula" />
+</div><div style = "display: inline_block"> <br>
+  
+  
   
   <div>
   <a href="https://api.whatsapp.com/send?phone=5577991693949&text=Ol%C3%A1!%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">   </a> 
