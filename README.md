@@ -1,6 +1,6 @@
 ### Olá!! Eu sou Lívia Ribeiro!  😀
 
-- 🔭 Atualmente trabalho com desenvolvimento de chatbot
+- 🔭 Atualmente trabalho com desenvolvimento de chatbots
 - 🌱 Sou estudande de Sistemas de Informação pelo IFBA - Campus Vitória da Conquista - BA
 - 👩🏻‍🎓 Técnica em informática, com foco em desenvolvimento web
 - 📫 Contate-me pelo e-mail: liviaribeiroinfo@gmail.com 
