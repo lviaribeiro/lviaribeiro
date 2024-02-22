@@ -1,6 +1,5 @@
 ### Olá!! Eu sou Lívia Ribeiro!  😀
 
-- 🔭 Atualmente trabalho como ChatBot Developer em Take Blip
 - 🌱 Estudande de Sistemas de Informação pelo IFBA - Campus Vitória da Conquista - BA
 - 👩🏻‍🎓 Técnica em informática, com foco em desenvolvimento web
 - 📱 Contate-me pelo WhatsApp: (77) 99169-3949
